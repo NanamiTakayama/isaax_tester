@@ -38,8 +38,7 @@ class Updater:
 			
 		if self.commit == "0":
 			print("sucessfully commited at" + self.committime)
-			self.count += 1
-			print(str(self.count) + "time sucessfully commited")
+			print("sucessfully commited")
 		
 		else:
 			print(self.error)
