@@ -60,7 +60,6 @@ if __name__ == '__main__':
 	test = Updater("app.py")
 	repeat = 0
 
-	time = Updater("app.py")
 	for count in range(0,1):
 		test.modify()
 		test.commit()
