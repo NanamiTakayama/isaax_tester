@@ -1,5 +1,1 @@
-import time
-
-while True:
-	print("2016-12-19 17:39:13.772650 IoT from isaax")
-	time.sleep(5)
+Datetime: 2016-12-20T16:00:38.475120
